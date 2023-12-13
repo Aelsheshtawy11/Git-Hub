@@ -15,3 +15,5 @@
 11- git branch lesson3.1 (create a new branch)
 12- git switch lesson3.1 (trasport from master to new branch )
 13- git switch master (trasport  from new branch to master  )
+14- git log (give you all brevious versions
+)
