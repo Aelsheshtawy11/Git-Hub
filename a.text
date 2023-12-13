@@ -12,4 +12,6 @@
 )
 9- git add .
 10- git commit -m "transform from staging area to local Repo"
-9- 
+11- git branch lesson3.1 (create a new branch)
+12- git switch lesson3.1 (trasport from master to new branch )
+13- git switch master (trasport  from new branch to master  )
