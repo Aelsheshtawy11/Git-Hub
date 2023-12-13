@@ -25,9 +25,8 @@
 4- git add .
 5- git commit -m "add .gitignore file" 
 6- added file "Hello.html" inside the ".gitignore" file
-7- you can add *.attia  inside the ".gitignore" file which any file.attia will be hidden and untracked in future.
+7- you can add *.attia  inside tgit he ".gitignore" file which any file.attia will be hidden and untracked in future.
 8- Important note to make any file hidden should be untracked "git rm --cached file name" otherwise still tracked.
- Upload file to github
 1- git remote add origin https://github.com/Aelsheshtawy11/Git-Hub.git ("your project file on github later you could change origin to another name")
 2- git branch -M main ("change master to main ")
 3- git push -u origin main (upload files of main to origin)
