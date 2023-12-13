@@ -1,0 +1,8 @@
+1- make new file Project-x
+2- git init (to convert it to repo)
+3- touch a.txt
+4- git status (nothing added to commit but untracked files present (use "git add" to track))
+5- git add . 
+6- git status (  (use "git rm --cached <file>..." to unstage) new file:   a.text)
+7- add information to a.text 
+8- git status 
