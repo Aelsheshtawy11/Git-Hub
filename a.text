@@ -17,4 +17,13 @@
 13- git switch master (trasport  from new branch to master  )
 14- git log (give you all brevious versions "Repo History")
 15- git checkout ID (to go through previous version)
-16- git checkout master   
+16- git checkout master  
+"Make a hidden untracked file"
+1- touch Hello.html
+2- git add . (added file to tracked)
+3- git rm --cached Hello.html (make file untracked)
+4- git add .
+5- git commit -m "add .gitignore file" 
+6- added file "Hello.html" inside the ".gitignore" file
+7- you can add *.attia  inside the ".gitignore" file which any file.attia will be hidden and untracked in future.
+8- Important note to make any file hidden should be untracked "git rm --cached file name" otherwise still tracked.
